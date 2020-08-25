@@ -1,4 +1,4 @@
-package com.taotao.common.utils;
+package com.pw.utils.servlet;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
